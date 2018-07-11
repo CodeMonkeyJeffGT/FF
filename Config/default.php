@@ -16,4 +16,6 @@ return array(
 	'DB_USERNAME' => '',
 	'DB_PASSWORD' => '',
 
+	'LOG_DRIVE' => 'file',
+	'LOG' => 'logs/',
 );
